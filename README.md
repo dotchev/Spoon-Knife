@@ -4,7 +4,7 @@
 
 - [Well hello there!](#well-hello-there)
 - [New _feature_](#new-_feature_)
-- [New feature B](#new-feature-b)
+- [New *feature B*](#new-feature-b)
 
 <!-- tocstop -->
 
@@ -22,6 +22,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 description
 
-### New feature B
+### New *feature B*
 
 more about it
