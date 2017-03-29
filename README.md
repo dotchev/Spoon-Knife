@@ -1,3 +1,13 @@
+
+
+<!-- toc -->
+
+- [Well hello there!](#well-hello-there)
+- [New _feature_](#new-_feature_)
+- [New feature B](#new-feature-b)
+
+<!-- tocstop -->
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
@@ -8,7 +18,7 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-### New feature
+### New _feature_
 
 description
 
