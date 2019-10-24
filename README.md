@@ -26,3 +26,5 @@ description
 ### New *feature B*
 
 more about it
+
+Go to [Releases](/releases)
